@@ -1,6 +1,6 @@
 # Investigate a Dataset
 
-### Udacity Data Analyst Nanodegree (DAND) - Term 1 - Project 3
+### Udacity Data Analyst Nanodegree (DAND) - period: completed in April 2020
 
 ## Project Overview
 
